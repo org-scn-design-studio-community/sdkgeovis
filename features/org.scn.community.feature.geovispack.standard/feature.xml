@@ -6,7 +6,9 @@
       provider-name="SCN Community Contributors">
 
    <description url="https://github.com/KarolKalisz/DesignStudioSdkPack/blob/stable/README.md">
-      SCN Community Package with free SDK Data Sources. Contains data sources which can be used based on free Apache 2.0 license.
+      SCN Community Package with free Standard Geovisualization Tiles.
+Contains public domain data with no attribution needed.
+Apache 2.0 License.
    </description>
 
    <copyright url="https://github.com/org-scn-design-studio-community/sdkpackage//blob/master/COPYRIGHT">
@@ -230,9 +232,9 @@ http://www.apache.org/licenses/
 
    <plugin
          id="org.scn.community.geovispack.standard"
-         download-size="0"
-         install-size="0"
-         version="1.0.0.0"
+         download-size="74000"
+         install-size="74000"
+         version="0.0.0"
          unpack="false"/>
 
 </feature>

@@ -5,8 +5,10 @@
       version="1.0.0.0"
       provider-name="SCN Community Contributors">
 
-   <description url="https://github.com/KarolKalisz/DesignStudioSdkPack/blob/stable/README.md">
-      SCN Community Package with free SDK Data Sources. Contains data sources which can be used based on free Apache 2.0 license.
+   <description url="https://github.com/org-scn-design-studio-community/sdkgeovis/blob/stable/README.md">
+      SCN Community Package with free Terrain Geovisualization Tiles.
+Contains public domain data with no attribution needed.
+Apache 2.0 License.
    </description>
 
    <copyright url="https://github.com/org-scn-design-studio-community/sdkpackage//blob/master/COPYRIGHT">
@@ -30,7 +32,7 @@
  */
    </copyright>
 
-   <license url="https://github.com/org-scn-design-studio-community/sdkpackage//blob/master/LICENSE">
+   <license url="https://github.com/org-scn-design-studio-community/sdkpackage/blob/master/LICENSE">
       Content is free for use and distribution under Apache License Version 2.0.
      
 Unless required by applicable law or agreed to in writing, Licensor provides the Work 
@@ -230,9 +232,9 @@ http://www.apache.org/licenses/
 
    <plugin
          id="org.scn.community.geovispack.terrain"
-         download-size="0"
-         install-size="0"
-         version="1.0.0.0"
+         download-size="93000"
+         install-size="93000"
+         version="0.0.0"
          unpack="false"/>
 
 </feature>
