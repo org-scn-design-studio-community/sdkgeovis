@@ -1,0 +1,2 @@
+Bundle-Name: Design Studio SCN Community Terrain Map Pack
+Bundle-SymbolicName: org.scn.community.geovispack.terrain;singleton:=true

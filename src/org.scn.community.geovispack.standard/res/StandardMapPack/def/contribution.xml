@@ -1,0 +1,9 @@
+
+<component id="StandardMapPack" 
+	title="Standard Map Pack"
+	icon="res/StandardMapPack/StandardMapPack.png"
+	handlerType="div"
+	propertySheetPath="res/StandardMapPack/StandardMapPackPropertyPage.html"
+	group="ScnCommunityGeo">	
+	<jsInclude>res/StandardMapPack/StandardMapPack.js</jsInclude>
+</component>

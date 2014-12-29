@@ -1,0 +1,2 @@
+	id="org.scn.community.geovispack.standard"
+	title="Design Studio SCN Community Standard Map Pack"

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.scn.community.sdk.feature.geovispack.terrain_1.0.0.0.jar" id="org.scn.community.sdk.feature.geovispack.terrain" version="1.0.0.0">
+      <category name="com.sap.ip.bi.zen.sdk"/>
+   </feature>
+   <category-def name="com.sap.ip.bi.zen.sdk" label="com.sap.ip.bi.zen.sdk"/>
+</site>

@@ -1,0 +1,2 @@
+	id="org.scn.community.geovispack.terrain"
+	title="Design Studio SCN Community Terrain Map Pack"

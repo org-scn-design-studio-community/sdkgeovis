@@ -1,0 +1,27 @@
+{
+   "tilejson" : "2.0.0",
+   "scheme":"xyz",
+   "basename":"Terrain",
+   "tiles" : ["/maps/terrain/{z}/{x}/{y}.png"],
+   "id":"terrain_zoom5",
+   "filesize":31506432,
+   "bounds":[
+      -180,
+      -85.0511,
+      180,
+      85.0511
+   ],
+   "center":[
+      0,
+      20,
+      3
+   ],
+   "minzoom":0,
+   "maxzoom":5,
+   "name":"Terrain Map",
+   "description":"",
+   "attribution":"",
+   "legend":"",
+   "template":"",
+   "version":"1.0.0"
+}

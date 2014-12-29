@@ -1,0 +1,9 @@
+
+<component id="TerrainMapPack" 
+	title="Terrain Map Pack"
+	icon="res/TerrainMapPack/TerrainMapPack.png"
+	handlerType="div"
+	propertySheetPath="res/TerrainMapPack/TerrainMapPackPropertyPage.html"
+	group="ScnCommunityGeo">	
+	<jsInclude>res/TerrainMapPack/TerrainMapPack.js</jsInclude>
+</component>
