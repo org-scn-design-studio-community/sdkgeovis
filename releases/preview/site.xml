@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.scn.community.sdk.feature.geovispack.standard_1.0.0.0.jar" id="org.scn.community.sdk.feature.geovispack.standard" version="1.0.0.0">
+      <category name="com.sap.ip.bi.zen.sdk"/>
+   </feature>
+   <feature url="features/org.scn.community.sdk.feature.geovispack.terrain_1.0.0.0.jar" id="org.scn.community.sdk.feature.geovispack.terrain" version="1.0.0.0">
+      <category name="com.sap.ip.bi.zen.sdk"/>
+   </feature>
+   <archive path="features/org.scn.community.sdk.feature.geovispack.standard_1.0.0.0.jar" url="http://org-scn-design-studio-community.github.io/sdkgeovis/site/org.scn.community.geovispack.standard_1.0.0.0/features/org.scn.community.sdk.feature.geovispack.standard_1.0.0.0.jar"/>
+   <archive path="plugins/org.scn.community.geovispack.standard_1.0.0.0.jar" url="http://org-scn-design-studio-community.github.io/sdkgeovis/site/org.scn.community.geovispack.standard_1.0.0.0/plugins/org.scn.community.geovispack.standard_1.0.0.0.jar"/>
+   <category-def name="com.sap.ip.bi.zen.sdk" label="com.sap.ip.bi.zen.sdk"/>
+</site>
