@@ -226,10 +226,6 @@ http://www.apache.org/licenses/
       <discovery label="Karol&apos;s Page at SCN" url="http://scn.sap.com/people/karol.kalisz"/>
    </url>
 
-   <requires>
-      <import plugin="com.sap.ip.bi.zen.rt.components.sdk.eclipse" version="14.0.0" match="greaterOrEqual"/>
-   </requires>
-
    <plugin
          id="org.scn.community.geovispack.terrain"
          download-size="93000"
